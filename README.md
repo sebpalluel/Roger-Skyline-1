@@ -474,3 +474,4 @@ uncomment this one `KILL_ROUTE="/sbin/iptables -I INPUT -s $TARGET$ -j DROP"`
 `sudo ufw allow DNS`
 - check portsentry with `nmap 10.12.1.135`
 when banned go to VM and do `sudo iptables -L` to show ban and do `sudo iptables -D INPUT 1` to remove ban
+also remove ban in `/etc/hosts.deny` and do `sudo service ssh restart`
