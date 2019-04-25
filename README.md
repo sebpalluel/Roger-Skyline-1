@@ -457,6 +457,7 @@ https://docs.gitlab.com/ee/ci/introduction/index.html
 https://msdalp.github.io/2018/06/20/Gitlab-CI-Auto-Deployment-to-Remote-Server/
 + How To Use Git Hooks To Automate Development and Deployment Tasks
 https://www.digitalocean.com/community/tutorials/how-to-use-git-hooks-to-automate-development-and-deployment-tasks
++ auto-deployment can be done with https://www.ansible.com/
 
 
 ## to change
